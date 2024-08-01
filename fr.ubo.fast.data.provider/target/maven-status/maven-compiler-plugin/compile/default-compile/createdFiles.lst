@@ -1,0 +1,8 @@
+fr\ubo\fast\data\provider\service\TimeSeriesDataSupplier.class
+fr\ubo\fast\data\provider\service\TimeSeriesDataConfig.class
+fr\ubo\fast\data\provider\service\TimeSeriesDataController.class
+fr\ubo\fast\data\provider\service\impl\TimeSeriesDataConfigImpl.class
+fr\ubo\fast\data\provider\service\impl\TimeSeriesDataAdminImpl.class
+fr\ubo\fast\data\provider\service\TimeSeriesDataViews.class
+fr\ubo\fast\data\provider\service\TimeSeriesDataAdmin.class
+fr\ubo\fast\data\provider\service\TimeSeriesDataProvider.class

@@ -1,0 +1,36 @@
+.root {
+    -fx-background-color: #2e3b4e; /* Background color of the root */
+    -fx-text-fill: #ffffff; /* Default text color */
+}
+
+.label {
+    -fx-text-fill: #ffffff; /* Text color of labels */
+}
+
+.tab-pane .tab {
+    -fx-padding: 10 40 10 40; /* Padding of the tabs */
+    -fx-min-width: 150px; /* Minimum width of the tabs */
+}
+
+
+.button {
+    -fx-background-color: #3b4d63;
+    -fx-text-fill: #ffffff;
+    -fx-border-color: #586a82;
+    -fx-border-width: 2px;
+}
+
+.button:hover {
+    -fx-background-color: #4a5c7a;
+}
+
+.text-field {
+    -fx-background-color: #3b4d63;
+    -fx-text-fill: #ffffff;
+    -fx-border-color: #586a82;
+    -fx-border-width: 2px;
+}
+
+.text-field:focused {
+    -fx-background-color: #4a5c7a;
+}

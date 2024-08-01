@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.RowConstraints?>
+
+<GridPane fx:controller="org.example.timeseriesadmin.controller.MetadataController"
+          xmlns:fx="http://javafx.com/fxml" alignment="center" hgap="10" vgap="10">
+    <padding>
+        <Insets top="20" right="20" bottom="20" left="20"/>
+    </padding>
+    <columnConstraints>
+        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="200.0" />
+    </columnConstraints>
+    <rowConstraints>
+        <RowConstraints vgrow="SOMETIMES" minHeight="10.0" prefHeight="30.0" />
+        <RowConstraints vgrow="SOMETIMES" minHeight="10.0" prefHeight="30.0" />
+        <RowConstraints vgrow="SOMETIMES" minHeight="10.0" prefHeight="30.0" />
+        <RowConstraints vgrow="SOMETIMES" minHeight="10.0" prefHeight="30.0" />
+        <RowConstraints vgrow="SOMETIMES" minHeight="10.0" prefHeight="30.0" />
+        <RowConstraints vgrow="SOMETIMES" minHeight="10.0" prefHeight="30.0" />
+        <RowConstraints vgrow="SOMETIMES" minHeight="10.0" prefHeight="30.0" />
+        <RowConstraints vgrow="SOMETIMES" minHeight="10.0" prefHeight="30.0" />
+    </rowConstraints>
+
+    <Label text="Enter metadata. If you want to delete them, just enter the name." GridPane.columnIndex="0" GridPane.rowIndex="0" GridPane.columnSpan="4"/>
+
+    <Label text="Name:" GridPane.columnIndex="0" GridPane.rowIndex="2" />
+    <TextField fx:id="name" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+
+    <Label text="Unit:" GridPane.columnIndex="0" GridPane.rowIndex="3"/>
+    <TextField fx:id="unit" GridPane.columnIndex="1" GridPane.rowIndex="3"/>
+
+    <Label text="Period in seconds:" GridPane.columnIndex="0" GridPane.rowIndex="4"/>
+    <TextField fx:id="period" GridPane.columnIndex="1" GridPane.rowIndex="4"/>
+
+    <Label text="Qmin:" GridPane.columnIndex="0" GridPane.rowIndex="5"/>
+    <TextField fx:id="qmin" GridPane.columnIndex="1" GridPane.rowIndex="5"/>
+
+    <Label text="Qmax:" GridPane.columnIndex="0" GridPane.rowIndex="6"/>
+    <TextField fx:id="qmax" GridPane.columnIndex="1" GridPane.rowIndex="6"/>
+
+
+    <HBox spacing="10" GridPane.columnIndex="5" GridPane.rowIndex="3" alignment="center">
+        <Button text="Add" onAction="#handleAdd"/>
+    </HBox>
+
+    <HBox spacing="10" GridPane.columnIndex="5" GridPane.rowIndex="4" alignment="center">
+        <Button text="Modify" onAction="#handleModify"/>
+    </HBox>
+
+    <HBox spacing="10" GridPane.columnIndex="5" GridPane.rowIndex="5" alignment="center">
+        <Button text="Delete" onAction="#handleDelete"/>
+    </HBox>
+
+    <Label fx:id="responseLabel" GridPane.columnIndex="0" GridPane.rowIndex="8" GridPane.columnSpan="2"/>
+
+</GridPane>

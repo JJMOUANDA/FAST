@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ProgressBar?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.RowConstraints?>
+
+<GridPane fx:controller="org.example.timeseriesadmin.controller.ObservationsController"
+          xmlns:fx="http://javafx.com/fxml" alignment="center" hgap="10" vgap="10">
+    <padding>
+        <Insets top="20" right="20" bottom="20" left="20"/>
+    </padding>
+    <columnConstraints>
+        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="200.0" />
+    </columnConstraints>
+    <rowConstraints>
+        <RowConstraints vgrow="SOMETIMES" minHeight="10.0" prefHeight="30.0" />
+        <RowConstraints vgrow="SOMETIMES" minHeight="10.0" prefHeight="30.0" />
+        <RowConstraints vgrow="SOMETIMES" minHeight="10.0" prefHeight="30.0" />
+        <RowConstraints vgrow="SOMETIMES" minHeight="10.0" prefHeight="30.0" />
+        <RowConstraints vgrow="SOMETIMES" minHeight="10.0" prefHeight="30.0" />
+        <RowConstraints vgrow="SOMETIMES" minHeight="10.0" prefHeight="30.0" />
+        <RowConstraints vgrow="SOMETIMES" minHeight="10.0" prefHeight="30.0" />
+        <RowConstraints vgrow="SOMETIMES" minHeight="10.0" prefHeight="30.0" />
+    </rowConstraints>
+
+    <Label text="First select a file, then the metadata you wish to associate with it." GridPane.columnIndex="0" GridPane.rowIndex="0" GridPane.columnSpan="3"/>
+
+    <Label text="File:" GridPane.columnIndex="0" GridPane.rowIndex="1"/>
+    <Button text="Choose File" onAction="#handleChooseFile" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+
+    <Label text="Metadata:" GridPane.columnIndex="0" GridPane.rowIndex="2"/>
+    <ComboBox fx:id="metadataComboBox" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+
+    <HBox spacing="10" GridPane.columnIndex="1" GridPane.rowIndex="3" alignment="center">
+        <Button text="Send" onAction="#handleSend"/>
+    </HBox>
+
+    <Label fx:id="responseLabelObservations" GridPane.columnIndex="0" GridPane.rowIndex="4" GridPane.columnSpan="2"/>
+    <ProgressBar fx:id="progressBar" GridPane.columnIndex="0" GridPane.rowIndex="5" GridPane.columnSpan="2"/>
+    <Label fx:id="progressLabel" GridPane.columnIndex="0" GridPane.rowIndex="6" GridPane.columnSpan="2"/>
+</GridPane>

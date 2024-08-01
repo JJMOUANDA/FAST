@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+
+
+<TabPane xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.timeseriesadmin.controller.MainViewController">
+    <tabs>
+        <Tab text="Settings IP" closable="false">
+            <content>
+                <AnchorPane fx:id="settingsPane"/>
+            </content>
+        </Tab>
+        <Tab text="Metadata" closable="false">
+            <content>
+                <AnchorPane fx:id="metadataPane"/>
+            </content>
+        </Tab>
+        <Tab text="Data" closable="false">
+            <content>
+                <AnchorPane fx:id="observationsPane"/>
+            </content>
+        </Tab>
+        <Tab text="Configuration" closable="false">
+            <content>
+                <AnchorPane fx:id="configPane"/>
+            </content>
+        </Tab>
+        <Tab text="Configuration List" closable="false">
+            <content>
+                <AnchorPane fx:id="configListPane"/>
+            </content>
+        </Tab>
+    </tabs>
+</TabPane>
