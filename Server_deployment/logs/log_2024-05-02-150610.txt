@@ -1,0 +1,1 @@
+Error: This script needs the ability to run commands as root.

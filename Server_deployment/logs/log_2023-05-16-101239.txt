@@ -1,0 +1,7 @@
+lsb_release is /usr/bin/lsb_release
+/usr/bin/docker
+Warning: The "docker" command appears to already exist on this system.
+You may press Ctrl+C now to abort this script.
+cp: cannot create regular file '/usr/share/fast/docker /usr/share/fast/docker /usr/share/fast/docker /usr/share/fast/docker/environment.env': No such file or directory
+cp: cannot create regular file '/usr/share/fast/docker /usr/share/fast/docker /usr/share/fast/docker /usr/share/fast/docker/time_scale_db/environment.env': No such file or directory
+cp: cannot create regular file '/usr/share/fast/docker /usr/share/fast/docker /usr/share/fast/docker /usr/share/fast/docker/apache/fr.ubo.fast.data.provider-0.0.1-SNAPSHOT/WEB-INF/conf/database.properties': No such file or directory

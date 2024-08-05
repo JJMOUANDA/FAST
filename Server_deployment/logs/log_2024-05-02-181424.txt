@@ -1,0 +1,460 @@
+manifeste ajouté
+entrée META-INF/ ignorée
+entrée META-INF/MANIFEST.MF ignorée
+ajout : META-INF/maven/(entrée = 0) (sortie = 0)(stockage : 0 %)
+ajout : META-INF/maven/fr.ubo.fast/(entrée = 0) (sortie = 0)(stockage : 0 %)
+ajout : META-INF/maven/fr.ubo.fast/fr.ubo.fast.data.provider/(entrée = 0) (sortie = 0)(stockage : 0 %)
+ajout : META-INF/maven/fr.ubo.fast/fr.ubo.fast.data.provider/pom.properties(entrée = 115) (sortie = 104)(compression : 9 %)
+ajout : META-INF/maven/fr.ubo.fast/fr.ubo.fast.data.provider/pom.xml(entrée = 3102) (sortie = 741)(compression : 76 %)
+ajout : WEB-INF/(entrée = 0) (sortie = 0)(stockage : 0 %)
+ajout : WEB-INF/conf/(entrée = 0) (sortie = 0)(stockage : 0 %)
+ajout : WEB-INF/conf/database.properties(entrée = 171) (sortie = 105)(compression : 38 %)
+ajout : WEB-INF/classes/(entrée = 0) (sortie = 0)(stockage : 0 %)
+ajout : WEB-INF/classes/fr/(entrée = 0) (sortie = 0)(stockage : 0 %)
+ajout : WEB-INF/classes/fr/ubo/(entrée = 0) (sortie = 0)(stockage : 0 %)
+ajout : WEB-INF/classes/fr/ubo/fast/(entrée = 0) (sortie = 0)(stockage : 0 %)
+ajout : WEB-INF/classes/fr/ubo/fast/data/(entrée = 0) (sortie = 0)(stockage : 0 %)
+ajout : WEB-INF/classes/fr/ubo/fast/data/provider/(entrée = 0) (sortie = 0)(stockage : 0 %)
+ajout : WEB-INF/classes/fr/ubo/fast/data/provider/service/(entrée = 0) (sortie = 0)(stockage : 0 %)
+ajout : WEB-INF/classes/fr/ubo/fast/data/provider/service/TimeSeriesDataProvider.class(entrée = 9081) (sortie = 3998)(compression : 55 %)
+ajout : WEB-INF/web.xml(entrée = 846) (sortie = 398)(compression : 52 %)
+ajout : WEB-INF/lib/(entrée = 0) (sortie = 0)(stockage : 0 %)
+ajout : WEB-INF/lib/gt-imagemosaic-25-SNAPSHOT.jar(entrée = 594128) (sortie = 550631)(compression : 7 %)
+ajout : WEB-INF/lib/gt-process-geometry-25-SNAPSHOT.jar(entrée = 17211) (sortie = 14673)(compression : 14 %)
+ajout : WEB-INF/lib/gt-xsd-sld-25-SNAPSHOT.jar(entrée = 182590) (sortie = 159992)(compression : 12 %)
+ajout : WEB-INF/lib/hk2-api-2.6.1.jar(entrée = 200223) (sortie = 176122)(compression : 12 %)
+ajout : WEB-INF/lib/hk2-utils-2.6.1.jar(entrée = 131590) (sortie = 117610)(compression : 10 %)
+ajout : WEB-INF/lib/json-lib-2.4.2-geoserver.jar(entrée = 136800) (sortie = 124757)(compression : 8 %)
+ajout : WEB-INF/lib/gt-transform-25-SNAPSHOT.jar(entrée = 42360) (sortie = 39010)(compression : 7 %)
+ajout : WEB-INF/lib/commons-fileupload-1.3.3.jar(entrée = 70604) (sortie = 61236)(compression : 13 %)
+ajout : WEB-INF/lib/httpclient-4.5.13.jar(entrée = 780321) (sortie = 714301)(compression : 8 %)
+ajout : WEB-INF/lib/jersey-entity-filtering-2.37.jar(entrée = 84008) (sortie = 71364)(compression : 15 %)
+ajout : WEB-INF/lib/gt-xsd-fes-25-SNAPSHOT.jar(entrée = 76405) (sortie = 61915)(compression : 18 %)
+ajout : WEB-INF/lib/jt-colorconvert-1.1.22.jar(entrée = 71197) (sortie = 68653)(compression : 3 %)
+ajout : WEB-INF/lib/jt-crop-1.1.22.jar(entrée = 10061) (sortie = 8218)(compression : 18 %)
+ajout : WEB-INF/lib/jt-utilities-1.1.22.jar(entrée = 186751) (sortie = 173591)(compression : 7 %)
+ajout : WEB-INF/lib/jt-bandselect-1.1.22.jar(entrée = 9916) (sortie = 7675)(compression : 22 %)
+ajout : WEB-INF/lib/gt-render-25-SNAPSHOT.jar(entrée = 606296) (sortie = 571372)(compression : 5 %)
+ajout : WEB-INF/lib/jt-errordiffusion-1.1.22.jar(entrée = 19387) (sortie = 16993)(compression : 12 %)
+ajout : WEB-INF/lib/jakarta.annotation-api-1.3.5.jar(entrée = 25058) (sortie = 21985)(compression : 12 %)
+ajout : WEB-INF/lib/gt-image-25-SNAPSHOT.jar(entrée = 23411) (sortie = 21730)(compression : 7 %)
+ajout : WEB-INF/lib/jt-rescale-1.1.22.jar(entrée = 20379) (sortie = 18639)(compression : 8 %)
+ajout : WEB-INF/lib/jakarta.ws.rs-api-2.1.6.jar(entrée = 140376) (sortie = 121810)(compression : 13 %)
+ajout : WEB-INF/lib/jai_core-1.1.3.jar(entrée = 1900631) (sortie = 1802107)(compression : 5 %)
+ajout : WEB-INF/lib/gt-http-25-SNAPSHOT.jar(entrée = 23776) (sortie = 20484)(compression : 13 %)
+ajout : WEB-INF/lib/jt-zonalstats-1.6.0.jar(entrée = 20797) (sortie = 18477)(compression : 11 %)
+ajout : WEB-INF/lib/jt-mosaic-1.1.22.jar(entrée = 36751) (sortie = 34550)(compression : 5 %)
+ajout : WEB-INF/lib/imageio-ext-arcgrid-1.3.12.jar(entrée = 42266) (sortie = 37426)(compression : 11 %)
+ajout : WEB-INF/lib/gt-complex-25-SNAPSHOT.jar(entrée = 67097) (sortie = 58670)(compression : 12 %)
+ajout : WEB-INF/lib/spring-security-web-5.1.13.RELEASE.jar(entrée = 538242) (sortie = 458173)(compression : 14 %)
+ajout : WEB-INF/lib/net.opengis.fes-25-SNAPSHOT.jar(entrée = 234169) (sortie = 215322)(compression : 8 %)
+ajout : WEB-INF/lib/jt-rlookup-1.1.22.jar(entrée = 19212) (sortie = 16852)(compression : 12 %)
+ajout : WEB-INF/lib/commons-collections4-4.4.jar(entrée = 751914) (sortie = 671105)(compression : 10 %)
+ajout : WEB-INF/lib/jt-warp-1.1.22.jar(entrée = 70433) (sortie = 67659)(compression : 3 %)
+ajout : WEB-INF/lib/woodstox-core-6.2.6.jar(entrée = 1584445) (sortie = 1402669)(compression : 11 %)
+ajout : WEB-INF/lib/janino-3.0.8.jar(entrée = 796326) (sortie = 735977)(compression : 7 %)
+ajout : WEB-INF/lib/commons-pool-1.5.4.jar(entrée = 96221) (sortie = 87495)(compression : 9 %)
+ajout : WEB-INF/lib/commons-lang-2.5.jar(entrée = 279193) (sortie = 260819)(compression : 6 %)
+ajout : WEB-INF/lib/log4j-1.2.17.norce.jar(entrée = 445979) (sortie = 400964)(compression : 10 %)
+ajout : WEB-INF/lib/jt-scale2-1.1.22.jar(entrée = 96295) (sortie = 93292)(compression : 3 %)
+ajout : WEB-INF/lib/ejml-ddense-0.34.jar(entrée = 320032) (sortie = 294735)(compression : 7 %)
+ajout : WEB-INF/lib/checker-qual-3.5.0.jar(entrée = 214381) (sortie = 148404)(compression : 30 %)
+ajout : WEB-INF/lib/xmlpull-1.1.3.1.jar(entrée = 7188) (sortie = 6355)(compression : 11 %)
+ajout : WEB-INF/lib/gs-wcs1_0-2.19-SNAPSHOT.jar(entrée = 119770) (sortie = 113631)(compression : 5 %)
+ajout : WEB-INF/lib/jt-stats-1.1.22.jar(entrée = 36385) (sortie = 33016)(compression : 9 %)
+ajout : WEB-INF/lib/jasypt-springsecurity3-1.9.2.jar(entrée = 20318) (sortie = 17613)(compression : 13 %)
+ajout : WEB-INF/lib/disruptor-1.2.13.jar(entrée = 134337) (sortie = 123592)(compression : 7 %)
+ajout : WEB-INF/lib/error_prone_annotations-2.11.0.jar(entrée = 15979) (sortie = 10913)(compression : 31 %)
+ajout : WEB-INF/lib/jackson-datatype-jsr310-2.13.0.jar(entrée = 121201) (sortie = 107067)(compression : 11 %)
+ajout : WEB-INF/lib/bigint-0.7.1.jar(entrée = 22046) (sortie = 20875)(compression : 5 %)
+ajout : WEB-INF/lib/httpcore-4.4.13.jar(entrée = 328593) (sortie = 294934)(compression : 10 %)
+ajout : WEB-INF/lib/aopalliance-repackaged-2.6.1.jar(entrée = 27006) (sortie = 21930)(compression : 18 %)
+ajout : WEB-INF/lib/ejml-core-0.34.jar(entrée = 167279) (sortie = 150913)(compression : 9 %)
+ajout : WEB-INF/lib/mail-1.4.jar(entrée = 388864) (sortie = 362416)(compression : 6 %)
+ajout : WEB-INF/lib/jt-piecewise-1.1.22.jar(entrée = 38177) (sortie = 33671)(compression : 11 %)
+ajout : WEB-INF/lib/jt-jiffle-op-1.1.22.jar(entrée = 13685) (sortie = 11599)(compression : 15 %)
+ajout : WEB-INF/lib/jakarta.validation-api-2.0.2.jar(entrée = 91930) (sortie = 68631)(compression : 25 %)
+ajout : WEB-INF/lib/picocontainer-1.2.jar(entrée = 112635) (sortie = 96308)(compression : 14 %)
+ajout : WEB-INF/lib/org.w3.xlink-25-SNAPSHOT.jar(entrée = 53718) (sortie = 50215)(compression : 6 %)
+ajout : WEB-INF/lib/commons-codec-1.11.jar(entrée = 335042) (sortie = 282922)(compression : 15 %)
+ajout : WEB-INF/lib/hsqldb-2.4.1.jar(entrée = 1552127) (sortie = 1471026)(compression : 5 %)
+ajout : WEB-INF/lib/jakarta.inject-2.6.1.jar(entrée = 18140) (sortie = 16603)(compression : 8 %)
+ajout : WEB-INF/lib/jt-vectorbin-1.1.22.jar(entrée = 19397) (sortie = 17451)(compression : 10 %)
+ajout : WEB-INF/lib/jt-utils-1.6.0.jar(entrée = 209428) (sortie = 194328)(compression : 7 %)
+ajout : WEB-INF/lib/commons-text-1.4.jar(entrée = 183760) (sortie = 166373)(compression : 9 %)
+ajout : WEB-INF/lib/jersey-apache-connector-2.37.jar(entrée = 46459) (sortie = 41269)(compression : 11 %)
+ajout : WEB-INF/lib/jettison-1.0.1.jar(entrée = 56702) (sortie = 51468)(compression : 9 %)
+ajout : WEB-INF/lib/gs-wcs-2.19-SNAPSHOT.jar(entrée = 49230) (sortie = 44032)(compression : 10 %)
+ajout : WEB-INF/lib/gt-xml-25-SNAPSHOT.jar(entrée = 817121) (sortie = 757913)(compression : 7 %)
+ajout : WEB-INF/lib/junit-4.10.jar(entrée = 253160) (sortie = 221287)(compression : 12 %)
+ajout : WEB-INF/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar(entrée = 2199) (sortie = 1465)(compression : 33 %)
+ajout : WEB-INF/lib/fr.ubo.fast.common-0.0.1-SNAPSHOT.jar(entrée = 66827) (sortie = 60201)(compression : 9 %)
+ajout : WEB-INF/lib/jt-lookup-1.1.22.jar(entrée = 42178) (sortie = 39813)(compression : 5 %)
+ajout : WEB-INF/lib/gt-xsd-filter-25-SNAPSHOT.jar(entrée = 110081) (sortie = 96080)(compression : 12 %)
+ajout : WEB-INF/lib/stax-ex-1.8.jar(entrée = 36073) (sortie = 32020)(compression : 11 %)
+ajout : WEB-INF/lib/jersey-container-servlet-2.37.jar(entrée = 32383) (sortie = 28142)(compression : 13 %)
+ajout : WEB-INF/lib/gt-xsd-ows-25-SNAPSHOT.jar(entrée = 127440) (sortie = 114656)(compression : 10 %)
+ajout : WEB-INF/lib/net.opengis.wmts-25-SNAPSHOT.jar(entrée = 1924347) (sortie = 1763004)(compression : 8 %)
+ajout : WEB-INF/lib/gs-main-2.19-SNAPSHOT.jar(entrée = 2061118) (sortie = 1904408)(compression : 7 %)
+ajout : WEB-INF/lib/jt-bandcombine-1.1.22.jar(entrée = 16725) (sortie = 14442)(compression : 13 %)
+ajout : WEB-INF/lib/jersey-container-servlet-core-2.37.jar(entrée = 73320) (sortie = 63862)(compression : 12 %)
+ajout : WEB-INF/lib/gs-wcs1_1-2.19-SNAPSHOT.jar(entrée = 144289) (sortie = 132670)(compression : 8 %)
+ajout : WEB-INF/lib/jersey-common-2.37.jar(entrée = 1203270) (sortie = 1048042)(compression : 12 %)
+ajout : WEB-INF/lib/activation-1.1.jar(entrée = 62983) (sortie = 58052)(compression : 7 %)
+ajout : WEB-INF/lib/gt-process-raster-25-SNAPSHOT.jar(entrée = 122913) (sortie = 113639)(compression : 7 %)
+ajout : WEB-INF/lib/freemarker-2.3.31.jar(entrée = 1715750) (sortie = 1543593)(compression : 10 %)
+ajout : WEB-INF/lib/jgridshift-core-1.3.jar(entrée = 13007) (sortie = 11492)(compression : 11 %)
+ajout : WEB-INF/lib/gt-tile-client-25-SNAPSHOT.jar(entrée = 43171) (sortie = 38325)(compression : 11 %)
+ajout : WEB-INF/lib/antlr4-runtime-4.7.1.jar(entrée = 336803) (sortie = 308239)(compression : 8 %)
+ajout : WEB-INF/lib/gt-jdbc-25-SNAPSHOT.jar(entrée = 248873) (sortie = 236763)(compression : 4 %)
+ajout : WEB-INF/lib/hamcrest-core-1.1.jar(entrée = 76643) (sortie = 17941)(compression : 76 %)
+ajout : WEB-INF/lib/imageio-ext-cog-reader-1.3.12.jar(entrée = 9529) (sortie = 7555)(compression : 20 %)
+ajout : WEB-INF/lib/postgresql-42.2.24.jar(entrée = 1006549) (sortie = 932448)(compression : 7 %)
+ajout : WEB-INF/lib/gt-opengis-25-SNAPSHOT.jar(entrée = 358683) (sortie = 284209)(compression : 20 %)
+ajout : WEB-INF/lib/gs-wcs2_0-2.19-SNAPSHOT.jar(entrée = 352726) (sortie = 330006)(compression : 6 %)
+ajout : WEB-INF/lib/gt-wps-25-SNAPSHOT.jar(entrée = 41336) (sortie = 36946)(compression : 10 %)
+ajout : WEB-INF/lib/imageio-ext-geocore-1.3.12.jar(entrée = 32242) (sortie = 27478)(compression : 14 %)
+ajout : WEB-INF/lib/json-simple-1.1.1.jar(entrée = 23931) (sortie = 21027)(compression : 12 %)
+ajout : WEB-INF/lib/ezmorph-1.0.6.jar(entrée = 86487) (sortie = 79919)(compression : 7 %)
+ajout : WEB-INF/lib/gt-xsd-wmts-25-SNAPSHOT.jar(entrée = 55739) (sortie = 49372)(compression : 11 %)
+ajout : WEB-INF/lib/jna-platform-5.10.0.jar(entrée = 1343495) (sortie = 1142840)(compression : 14 %)
+ajout : WEB-INF/lib/jakarta.xml.bind-api-2.3.3.jar(entrée = 115638) (sortie = 98619)(compression : 14 %)
+ajout : WEB-INF/lib/spring-tx-5.2.20.RELEASE.jar(entrée = 314619) (sortie = 269490)(compression : 14 %)
+ajout : WEB-INF/lib/commons-logging-1.2.jar(entrée = 61829) (sortie = 57165)(compression : 7 %)
+ajout : WEB-INF/lib/net.opengis.ows-25-SNAPSHOT.jar(entrée = 593419) (sortie = 530595)(compression : 10 %)
+ajout : WEB-INF/lib/xpp3-1.1.3.4.O.jar(entrée = 119888) (sortie = 111764)(compression : 6 %)
+ajout : WEB-INF/lib/spring-webmvc-5.2.20.RELEASE.jar(entrée = 956955) (sortie = 859939)(compression : 10 %)
+ajout : WEB-INF/lib/jai_imageio-1.1.jar(entrée = 1140632) (sortie = 1051432)(compression : 7 %)
+ajout : WEB-INF/lib/jasypt-1.9.2.jar(entrée = 129265) (sortie = 111060)(compression : 14 %)
+ajout : WEB-INF/lib/jt-nullop-1.1.22.jar(entrée = 7154) (sortie = 5588)(compression : 21 %)
+ajout : WEB-INF/lib/spring-jcl-5.2.20.RELEASE.jar(entrée = 23961) (sortie = 20798)(compression : 13 %)
+ajout : WEB-INF/lib/jt-shadedrelief-1.1.22.jar(entrée = 39427) (sortie = 33634)(compression : 14 %)
+ajout : WEB-INF/lib/jt-border-1.1.22.jar(entrée = 14434) (sortie = 12875)(compression : 10 %)
+ajout : WEB-INF/lib/spring-expression-5.2.20.RELEASE.jar(entrée = 282493) (sortie = 259839)(compression : 8 %)
+ajout : WEB-INF/lib/txw2-2.4.0-b180830.0438.jar(entrée = 70322) (sortie = 62906)(compression : 10 %)
+ajout : WEB-INF/lib/org.eclipse.emf.common-2.15.0.jar(entrée = 376004) (sortie = 336587)(compression : 10 %)
+ajout : WEB-INF/lib/jt-classbreaks-1.1.22.jar(entrée = 34007) (sortie = 30304)(compression : 10 %)
+ajout : WEB-INF/lib/gt-geotiff-25-SNAPSHOT.jar(entrée = 34727) (sortie = 32781)(compression : 5 %)
+ajout : WEB-INF/lib/net.opengis.wfs-25-SNAPSHOT.jar(entrée = 480502) (sortie = 432670)(compression : 9 %)
+ajout : WEB-INF/lib/jt-attributeop-1.6.0.jar(entrée = 3919) (sortie = 2826)(compression : 27 %)
+ajout : WEB-INF/lib/jt-scale-1.1.22.jar(entrée = 93598) (sortie = 90701)(compression : 3 %)
+ajout : WEB-INF/lib/gs-wps-core-2.19-SNAPSHOT.jar(entrée = 446733) (sortie = 408861)(compression : 8 %)
+ajout : WEB-INF/lib/gt-app-schema-resolver-25-SNAPSHOT.jar(entrée = 14874) (sortie = 12122)(compression : 18 %)
+ajout : WEB-INF/lib/gt-xsd-gml3-25-SNAPSHOT.jar(entrée = 1570069) (sortie = 1404336)(compression : 10 %)
+ajout : WEB-INF/lib/jts-core-1.17.0.jar(entrée = 888188) (sortie = 796080)(compression : 10 %)
+ajout : WEB-INF/lib/jaxb-api-2.4.0-b180830.0359.jar(entrée = 128032) (sortie = 111936)(compression : 12 %)
+ajout : WEB-INF/lib/spring-jdbc-5.2.20.RELEASE.jar(entrée = 409359) (sortie = 362941)(compression : 11 %)
+ajout : WEB-INF/lib/jt-vectorize-1.6.0.jar(entrée = 14847) (sortie = 12925)(compression : 12 %)
+ajout : WEB-INF/lib/org.eclipse.xsd-2.12.0.jar(entrée = 996725) (sortie = 951401)(compression : 4 %)
+ajout : WEB-INF/lib/indriya-2.0.2.jar(entrée = 261545) (sortie = 239941)(compression : 8 %)
+ajout : WEB-INF/lib/spring-core-5.2.20.RELEASE.jar(entrée = 1447596) (sortie = 1302238)(compression : 10 %)
+ajout : WEB-INF/lib/jersey-client-2.37.jar(entrée = 266768) (sortie = 235124)(compression : 11 %)
+ajout : WEB-INF/lib/gt-property-25-SNAPSHOT.jar(entrée = 25691) (sortie = 22996)(compression : 10 %)
+ajout : WEB-INF/lib/jersey-server-2.37.jar(entrée = 949596) (sortie = 833447)(compression : 12 %)
+ajout : WEB-INF/lib/commons-math3-3.6.1.jar(entrée = 2213560) (sortie = 1965970)(compression : 11 %)
+ajout : WEB-INF/lib/gt-xsd-wcs-25-SNAPSHOT.jar(entrée = 179745) (sortie = 156979)(compression : 12 %)
+ajout : WEB-INF/lib/guava-31.1-jre.jar(entrée = 2959479) (sortie = 2648556)(compression : 10 %)
+ajout : WEB-INF/lib/jt-bandmerge-1.1.22.jar(entrée = 34635) (sortie = 31890)(compression : 7 %)
+ajout : WEB-INF/lib/gt-main-25-SNAPSHOT.jar(entrée = 2077592) (sortie = 1910321)(compression : 8 %)
+ajout : WEB-INF/lib/jt-format-1.1.22.jar(entrée = 7299) (sortie = 5286)(compression : 27 %)
+ajout : WEB-INF/lib/commons-httpclient-3.1.jar(entrée = 305001) (sortie = 280532)(compression : 8 %)
+ajout : WEB-INF/lib/gt-process-25-SNAPSHOT.jar(entrée = 61415) (sortie = 54085)(compression : 11 %)
+ajout : WEB-INF/lib/commons-io-2.6.jar(entrée = 214788) (sortie = 196586)(compression : 8 %)
+ajout : WEB-INF/lib/jt-buffer-1.1.22.jar(entrée = 19893) (sortie = 17755)(compression : 10 %)
+ajout : WEB-INF/lib/osgi-resource-locator-1.0.3.jar(entrée = 19479) (sortie = 16443)(compression : 15 %)
+ajout : WEB-INF/lib/gt-xsd-wps-25-SNAPSHOT.jar(entrée = 40801) (sortie = 36779)(compression : 9 %)
+ajout : WEB-INF/lib/jackson-databind-2.13.0.jar(entrée = 1533051) (sortie = 1401919)(compression : 8 %)
+ajout : WEB-INF/lib/jai_codec-1.1.3.jar(entrée = 258160) (sortie = 246356)(compression : 4 %)
+ajout : WEB-INF/lib/gt-wfs-ng-25-SNAPSHOT.jar(entrée = 257179) (sortie = 237906)(compression : 7 %)
+ajout : WEB-INF/lib/si-units-2.0.1.jar(entrée = 18289) (sortie = 16110)(compression : 11 %)
+ajout : WEB-INF/lib/spring-context-5.2.20.RELEASE.jar(entrée = 1232281) (sortie = 1074927)(compression : 12 %)
+ajout : WEB-INF/lib/stax-api-1.0.1.jar(entrée = 26514) (sortie = 20446)(compression : 22 %)
+ajout : WEB-INF/lib/xml-commons-resolver-1.2.jar(entrée = 84091) (sortie = 78973)(compression : 6 %)
+ajout : WEB-INF/lib/jt-zonal-1.1.22.jar(entrée = 34454) (sortie = 32613)(compression : 5 %)
+ajout : WEB-INF/lib/gt-coverage-25-SNAPSHOT.jar(entrée = 623005) (sortie = 588013)(compression : 5 %)
+ajout : WEB-INF/lib/jt-concurrent-tile-cache-1.1.22.jar(entrée = 21224) (sortie = 18925)(compression : 10 %)
+ajout : WEB-INF/lib/imageio-ext-tiff-1.3.12.jar(entrée = 366073) (sortie = 317694)(compression : 13 %)
+ajout : WEB-INF/lib/commons-lang3-3.12.0.jar(entrée = 587402) (sortie = 536123)(compression : 8 %)
+ajout : WEB-INF/lib/ehcache-3.4.0.jar(entrée = 1736811) (sortie = 1522165)(compression : 12 %)
+ajout : WEB-INF/lib/jt-orderdither-1.1.22.jar(entrée = 27572) (sortie = 25127)(compression : 8 %)
+ajout : WEB-INF/lib/hk2-locator-2.6.1.jar(entrée = 203358) (sortie = 190176)(compression : 6 %)
+ajout : WEB-INF/lib/jt-classifier-1.1.22.jar(entrée = 19461) (sortie = 16690)(compression : 14 %)
+ajout : WEB-INF/lib/jt-translate-1.1.22.jar(entrée = 10286) (sortie = 7892)(compression : 23 %)
+ajout : WEB-INF/lib/gs-wfs-2.19-SNAPSHOT.jar(entrée = 785755) (sortie = 725631)(compression : 7 %)
+ajout : WEB-INF/lib/javax.inject-1.jar(entrée = 2497) (sortie = 1796)(compression : 28 %)
+ajout : WEB-INF/lib/jt-iterators-1.1.22.jar(entrée = 33693) (sortie = 29415)(compression : 12 %)
+ajout : WEB-INF/lib/FastInfoset-1.2.15.jar(entrée = 311876) (sortie = 286763)(compression : 8 %)
+ajout : WEB-INF/lib/javassist-3.25.0-GA.jar(entrée = 780265) (sortie = 725815)(compression : 6 %)
+ajout : WEB-INF/lib/gt-wmts-25-SNAPSHOT.jar(entrée = 81152) (sortie = 75768)(compression : 6 %)
+ajout : WEB-INF/lib/jt-colorindexer-1.1.22.jar(entrée = 41172) (sortie = 35632)(compression : 13 %)
+ajout : WEB-INF/lib/failureaccess-1.0.1.jar(entrée = 4617) (sortie = 2768)(compression : 40 %)
+ajout : WEB-INF/lib/imageio-ext-cog-commons-1.3.12.jar(entrée = 13439) (sortie = 10244)(compression : 23 %)
+ajout : WEB-INF/lib/commons-collections-3.2.1.jar(entrée = 575389) (sortie = 504275)(compression : 12 %)
+ajout : WEB-INF/lib/spring-security-config-5.1.13.RELEASE.jar(entrée = 778977) (sortie = 705244)(compression : 9 %)
+ajout : WEB-INF/lib/commons-beanutils-1.9.4.jar(entrée = 246918) (sortie = 225318)(compression : 8 %)
+ajout : WEB-INF/lib/xstream-1.4.11.1.jar(entrée = 621071) (sortie = 545653)(compression : 12 %)
+ajout : WEB-INF/lib/jt-vectorbinarize-1.6.0.jar(entrée = 10868) (sortie = 8827)(compression : 18 %)
+ajout : WEB-INF/lib/jt-binarize-1.1.22.jar(entrée = 14825) (sortie = 12634)(compression : 14 %)
+ajout : WEB-INF/lib/j2objc-annotations-1.3.jar(entrée = 8781) (sortie = 6065)(compression : 30 %)
+ajout : WEB-INF/lib/gs-ows-2.19-SNAPSHOT.jar(entrée = 170041) (sortie = 156200)(compression : 8 %)
+ajout : WEB-INF/lib/jackson-annotations-2.13.3.jar(entrée = 75714) (sortie = 62205)(compression : 17 %)
+ajout : WEB-INF/lib/h2-1.1.119.jar(entrée = 1207393) (sortie = 1159519)(compression : 3 %)
+ajout : WEB-INF/lib/jsr305-3.0.2.jar(entrée = 19936) (sortie = 14794)(compression : 25 %)
+ajout : WEB-INF/lib/javax.activation-api-1.2.0.jar(entrée = 56674) (sortie = 52560)(compression : 7 %)
+ajout : WEB-INF/lib/gt-metadata-25-SNAPSHOT.jar(entrée = 571433) (sortie = 526606)(compression : 7 %)
+ajout : WEB-INF/lib/jt-algebra-1.1.22.jar(entrée = 54393) (sortie = 49557)(compression : 8 %)
+ajout : WEB-INF/lib/jaxb-runtime-2.4.0-b180830.0438.jar(entrée = 1093474) (sortie = 982852)(compression : 10 %)
+ajout : WEB-INF/lib/gt-cql-25-SNAPSHOT.jar(entrée = 201067) (sortie = 191406)(compression : 4 %)
+ajout : WEB-INF/lib/net.opengis.wcs-25-SNAPSHOT.jar(entrée = 670207) (sortie = 605406)(compression : 9 %)
+ajout : WEB-INF/lib/imageio-ext-streams-1.3.12.jar(entrée = 53810) (sortie = 46279)(compression : 13 %)
+ajout : WEB-INF/lib/imageio-ext-cog-streams-1.3.12.jar(entrée = 17168) (sortie = 14853)(compression : 13 %)
+ajout : WEB-INF/lib/gt-http-commons-25-SNAPSHOT.jar(entrée = 11299) (sortie = 9366)(compression : 17 %)
+ajout : WEB-INF/lib/uom-lib-common-2.0.jar(entrée = 21637) (sortie = 15452)(compression : 28 %)
+ajout : WEB-INF/lib/gt-epsg-hsql-25-SNAPSHOT.jar(entrée = 2699967) (sortie = 2696799)(compression : 0 %)
+ajout : WEB-INF/lib/jackson-dataformat-xml-2.13.0.jar(entrée = 122220) (sortie = 109736)(compression : 10 %)
+ajout : WEB-INF/lib/gt-xsd-gml2-25-SNAPSHOT.jar(entrée = 119256) (sortie = 108282)(compression : 9 %)
+ajout : WEB-INF/lib/org.eclipse.emf.ecore.xmi-2.15.0.jar(entrée = 235240) (sortie = 217695)(compression : 7 %)
+ajout : WEB-INF/lib/gs-platform-2.19-SNAPSHOT.jar(entrée = 140992) (sortie = 128778)(compression : 8 %)
+ajout : WEB-INF/lib/gt-wms-25-SNAPSHOT.jar(entrée = 237946) (sortie = 214004)(compression : 10 %)
+ajout : WEB-INF/lib/bcprov-jdk15on-1.60.jar(entrée = 4189874) (sortie = 3590694)(compression : 14 %)
+ajout : WEB-INF/lib/jersey-hk2-2.37.jar(entrée = 78361) (sortie = 67586)(compression : 13 %)
+ajout : WEB-INF/lib/gt-csv-25-SNAPSHOT.jar(entrée = 38719) (sortie = 35638)(compression : 7 %)
+ajout : WEB-INF/lib/spring-aop-5.2.20.RELEASE.jar(entrée = 373683) (sortie = 328599)(compression : 12 %)
+ajout : WEB-INF/lib/spring-web-5.2.20.RELEASE.jar(entrée = 1444522) (sortie = 1289534)(compression : 10 %)
+ajout : WEB-INF/lib/unit-api-2.0.jar(entrée = 37167) (sortie = 24424)(compression : 34 %)
+ajout : WEB-INF/lib/commons-compiler-3.0.8.jar(entrée = 37887) (sortie = 32171)(compression : 15 %)
+ajout : WEB-INF/lib/net.opengis.wps-25-SNAPSHOT.jar(entrée = 223575) (sortie = 196966)(compression : 11 %)
+ajout : WEB-INF/lib/imageio-ext-utilities-1.3.12.jar(entrée = 42716) (sortie = 39089)(compression : 8 %)
+ajout : WEB-INF/lib/spring-beans-5.2.20.RELEASE.jar(entrée = 689078) (sortie = 626345)(compression : 9 %)
+ajout : WEB-INF/lib/gt-arcgrid-25-SNAPSHOT.jar(entrée = 24195) (sortie = 22362)(compression : 7 %)
+ajout : WEB-INF/lib/opencsv-5.0.jar(entrée = 199929) (sortie = 185382)(compression : 7 %)
+ajout : WEB-INF/lib/jt-imagefunction-1.1.22.jar(entrée = 13183) (sortie = 10331)(compression : 21 %)
+ajout : WEB-INF/lib/commons-dbcp-1.4.jar(entrée = 160519) (sortie = 150762)(compression : 6 %)
+ajout : WEB-INF/lib/xpp3_min-1.1.4c.jar(entrée = 24956) (sortie = 24051)(compression : 3 %)
+ajout : WEB-INF/lib/istack-commons-runtime-3.0.7.jar(entrée = 25523) (sortie = 21593)(compression : 15 %)
+ajout : WEB-INF/lib/jt-contour-1.6.0.jar(entrée = 26952) (sortie = 24158)(compression : 10 %)
+ajout : WEB-INF/lib/jt-rangelookup-1.6.0.jar(entrée = 17512) (sortie = 14778)(compression : 15 %)
+ajout : WEB-INF/lib/systems-common-2.0.1.jar(entrée = 24277) (sortie = 21632)(compression : 10 %)
+ajout : WEB-INF/lib/org.eclipse.emf.ecore-2.15.0.jar(entrée = 1407496) (sortie = 1290233)(compression : 8 %)
+ajout : WEB-INF/lib/spring-security-core-5.1.13.RELEASE.jar(entrée = 433618) (sortie = 365103)(compression : 15 %)
+ajout : WEB-INF/lib/jersey-media-json-jackson-2.37.jar(entrée = 76505) (sortie = 65355)(compression : 14 %)
+ajout : WEB-INF/lib/oshi-core-5.8.6.jar(entrée = 879787) (sortie = 813849)(compression : 7 %)
+ajout : WEB-INF/lib/jt-affine-1.1.22.jar(entrée = 124653) (sortie = 121687)(compression : 2 %)
+ajout : WEB-INF/lib/jna-5.10.0.jar(entrée = 1756400) (sortie = 1722528)(compression : 1 %)
+ajout : WEB-INF/lib/gt-referencing-25-SNAPSHOT.jar(entrée = 1484576) (sortie = 1402806)(compression : 5 %)
+ajout : WEB-INF/lib/gt-xsd-wfs-25-SNAPSHOT.jar(entrée = 174153) (sortie = 157793)(compression : 9 %)
+ajout : WEB-INF/lib/gt-shapefile-25-SNAPSHOT.jar(entrée = 239529) (sortie = 222680)(compression : 7 %)
+ajout : WEB-INF/lib/jackson-core-2.13.0.jar(entrée = 374571) (sortie = 352507)(compression : 5 %)
+ajout : WEB-INF/lib/gt-geojson-25-SNAPSHOT.jar(entrée = 67317) (sortie = 59658)(compression : 11 %)
+ajout : WEB-INF/lib/jakarta.activation-api-1.2.1.jar(entrée = 44399) (sortie = 40073)(compression : 9 %)
+ajout : WEB-INF/lib/GeographicLib-Java-1.49.jar(entrée = 36875) (sortie = 33945)(compression : 7 %)
+ajout : WEB-INF/lib/jt-jiffle-language-1.1.22.jar(entrée = 273162) (sortie = 242183)(compression : 11 %)
+ajout : WEB-INF/lib/gt-xsd-core-25-SNAPSHOT.jar(entrée = 302312) (sortie = 270893)(compression : 10 %)
+ajout : WEB-INF/lib/stax2-api-4.2.1.jar(entrée = 195909) (sortie = 174564)(compression : 10 %)
+ajout : WEB-INF/lib/aircompressor-0.20.jar(entrée = 184929) (sortie = 171650)(compression : 7 %)
+ajout : WEB-INF/lib/si-quantity-2.0.1.jar(entrée = 9224) (sortie = 3714)(compression : 59 %)
+ajout : WEB-INF/lib/gt-grid-25-SNAPSHOT.jar(entrée = 41448) (sortie = 36057)(compression : 13 %)
+ajout : WEB-INF/lib/gt-process-feature-25-SNAPSHOT.jar(entrée = 182493) (sortie = 168616)(compression : 7 %)
+ajout : WEB-INF/lib/jackson-module-jaxb-annotations-2.13.3.jar(entrée = 36460) (sortie = 31666)(compression : 13 %)
+ajout : WEB-INF/lib/commons-jxpath-1.3.jar(entrée = 299994) (sortie = 272094)(compression : 9 %)
+ajout : WEB-INF/lib/slf4j-api-1.7.32.jar(entrée = 41513) (sortie = 36794)(compression : 11 %)
+#0 building with "default" instance using docker driver
+
+#1 [timescaledb internal] load build definition from docker_file
+#1 transferring dockerfile:
+#1 transferring dockerfile: 231B 0.1s done
+#1 DONE 0.5s
+
+#2 [timescaledb internal] load metadata for docker.io/timescale/timescaledb:latest-pg13
+#2 DONE 7.1s
+
+#3 [timescaledb internal] load .dockerignore
+#3 transferring context:
+#3 transferring context: 2B 0.1s done
+#3 DONE 0.4s
+
+#4 [timescaledb internal] load build context
+#4 DONE 0.0s
+
+#5 [timescaledb 1/4] FROM docker.io/timescale/timescaledb:latest-pg13@sha256:b408fe745f51af67f724a93089e13248ac8392c4bb89de22f22d8408fdf50093
+#5 resolve docker.io/timescale/timescaledb:latest-pg13@sha256:b408fe745f51af67f724a93089e13248ac8392c4bb89de22f22d8408fdf50093
+#5 resolve docker.io/timescale/timescaledb:latest-pg13@sha256:b408fe745f51af67f724a93089e13248ac8392c4bb89de22f22d8408fdf50093 0.2s done
+#5 sha256:b408fe745f51af67f724a93089e13248ac8392c4bb89de22f22d8408fdf50093 3.91kB / 3.91kB done
+#5 sha256:3d4c8190fb659011f808e5314c0450144057e52103d031361d4dd531d9b98d95 2.96kB / 2.96kB done
+#5 sha256:53e31c0a926ee28de46d732e1eac7bc3f01991ada8b0fd58d943f413b021874b 10.76kB / 10.76kB done
+#5 sha256:619be1103602d98e1963557998c954c892b3872986c27365e9f651f5bc27cab8 0B / 3.40MB 0.1s
+#5 sha256:e62f88be226cc0142a60c66cc216cd65729e847cee7f9643efb5ff18bcc1dd45 0B / 1.27kB 0.3s
+#5 ...
+
+#4 [timescaledb internal] load build context
+#4 transferring context: 2.17kB 0.0s done
+#4 DONE 0.5s
+
+#5 [timescaledb 1/4] FROM docker.io/timescale/timescaledb:latest-pg13@sha256:b408fe745f51af67f724a93089e13248ac8392c4bb89de22f22d8408fdf50093
+#5 sha256:93eb529d23f61af8300756ff62410eca141d0db8ee81e502e281fdff4ed68df1 0B / 116B 0.4s
+#5 sha256:619be1103602d98e1963557998c954c892b3872986c27365e9f651f5bc27cab8 1.05MB / 3.40MB 1.5s
+#5 sha256:e62f88be226cc0142a60c66cc216cd65729e847cee7f9643efb5ff18bcc1dd45 1.27kB / 1.27kB 1.7s done
+#5 sha256:93eb529d23f61af8300756ff62410eca141d0db8ee81e502e281fdff4ed68df1 116B / 116B 1.9s done
+#5 sha256:ba46ca6ff379ccbbae3267ed349896ed7a6851f6c7c2f8574b6eaa22c4f17521 0B / 87.84MB 2.0s
+#5 sha256:619be1103602d98e1963557998c954c892b3872986c27365e9f651f5bc27cab8 1.44MB / 3.40MB 2.2s
+#5 sha256:bb33107b32680c3e09833a53cde889d41a8acf4b26cbba35e083bf1ed788c7e7 0B / 9.02kB 2.2s
+#5 sha256:619be1103602d98e1963557998c954c892b3872986c27365e9f651f5bc27cab8 2.10MB / 3.40MB 2.4s
+#5 sha256:bb33107b32680c3e09833a53cde889d41a8acf4b26cbba35e083bf1ed788c7e7 9.02kB / 9.02kB 3.5s done
+#5 sha256:619be1103602d98e1963557998c954c892b3872986c27365e9f651f5bc27cab8 3.15MB / 3.40MB 3.8s
+#5 sha256:e7c4b4b6697e86f3fc0cb8024dac0b5509482562402859e02526d2395a885226 0B / 128B 3.8s
+#5 sha256:619be1103602d98e1963557998c954c892b3872986c27365e9f651f5bc27cab8 3.40MB / 3.40MB 4.0s done
+#5 sha256:e7c4b4b6697e86f3fc0cb8024dac0b5509482562402859e02526d2395a885226 128B / 128B 4.0s done
+#5 extracting sha256:619be1103602d98e1963557998c954c892b3872986c27365e9f651f5bc27cab8
+#5 sha256:b25d3e40fc5037b14cfc1690b0f15bb477beacd32ab41c85eed367158ab820ee 0B / 5.42kB 4.2s
+#5 sha256:880e70e76d044991eb65860ac410774db4973ff4b7fd7005db801885839f9559 0B / 170B 4.3s
+#5 sha256:b25d3e40fc5037b14cfc1690b0f15bb477beacd32ab41c85eed367158ab820ee 5.42kB / 5.42kB 4.5s done
+#5 sha256:5ca346356cad1ff96298f74e8e27e42f7d98b0ba84f70dbd5bab9cf1e869a62e 0B / 183B 4.6s
+#5 sha256:880e70e76d044991eb65860ac410774db4973ff4b7fd7005db801885839f9559 170B / 170B 4.7s done
+#5 sha256:e381d0be6a50dbf823db7d9e228ac1f64308f0e7d199a61f2449fe36a71b1fa1 0B / 2.12kB 4.9s
+#5 extracting sha256:619be1103602d98e1963557998c954c892b3872986c27365e9f651f5bc27cab8 1.1s done
+#5 sha256:5ca346356cad1ff96298f74e8e27e42f7d98b0ba84f70dbd5bab9cf1e869a62e 183B / 183B 5.3s
+#5 sha256:5ca346356cad1ff96298f74e8e27e42f7d98b0ba84f70dbd5bab9cf1e869a62e 183B / 183B 5.3s done
+#5 extracting sha256:e62f88be226cc0142a60c66cc216cd65729e847cee7f9643efb5ff18bcc1dd45 done
+#5 sha256:ffc4bfd5abded48036dbe5e7583a868ce0ecde3f7e5b00b7802a08570fe2a881 0B / 6.33MB 5.6s
+#5 sha256:e381d0be6a50dbf823db7d9e228ac1f64308f0e7d199a61f2449fe36a71b1fa1 2.12kB / 2.12kB 5.7s
+#5 sha256:e381d0be6a50dbf823db7d9e228ac1f64308f0e7d199a61f2449fe36a71b1fa1 2.12kB / 2.12kB 5.7s done
+#5 extracting sha256:93eb529d23f61af8300756ff62410eca141d0db8ee81e502e281fdff4ed68df1 done
+#5 sha256:c8cea7daa8e1710ec7fe89db7b49fd8ba242571ad4e796c949824bb89333d4f6 0B / 122.81MB 5.9s
+#5 sha256:ba46ca6ff379ccbbae3267ed349896ed7a6851f6c7c2f8574b6eaa22c4f17521 2.10MB / 87.84MB 7.1s
+#5 sha256:ffc4bfd5abded48036dbe5e7583a868ce0ecde3f7e5b00b7802a08570fe2a881 1.05MB / 6.33MB 8.2s
+#5 sha256:ffc4bfd5abded48036dbe5e7583a868ce0ecde3f7e5b00b7802a08570fe2a881 1.71MB / 6.33MB 10.8s
+#5 sha256:ffc4bfd5abded48036dbe5e7583a868ce0ecde3f7e5b00b7802a08570fe2a881 2.07MB / 6.33MB 11.0s
+#5 sha256:c8cea7daa8e1710ec7fe89db7b49fd8ba242571ad4e796c949824bb89333d4f6 2.10MB / 122.81MB 11.0s
+#5 sha256:ba46ca6ff379ccbbae3267ed349896ed7a6851f6c7c2f8574b6eaa22c4f17521 2.80MB / 87.84MB 12.4s
+#5 sha256:ffc4bfd5abded48036dbe5e7583a868ce0ecde3f7e5b00b7802a08570fe2a881 2.76MB / 6.33MB 12.7s
+#5 sha256:ffc4bfd5abded48036dbe5e7583a868ce0ecde3f7e5b00b7802a08570fe2a881 3.15MB / 6.33MB 13.0s
+#5 sha256:ffc4bfd5abded48036dbe5e7583a868ce0ecde3f7e5b00b7802a08570fe2a881 4.10MB / 6.33MB 15.2s
+#5 sha256:c8cea7daa8e1710ec7fe89db7b49fd8ba242571ad4e796c949824bb89333d4f6 8.39MB / 122.81MB 15.9s
+#5 sha256:ba46ca6ff379ccbbae3267ed349896ed7a6851f6c7c2f8574b6eaa22c4f17521 3.15MB / 87.84MB 17.4s
+#5 sha256:ffc4bfd5abded48036dbe5e7583a868ce0ecde3f7e5b00b7802a08570fe2a881 5.24MB / 6.33MB 17.9s
+#5 sha256:ffc4bfd5abded48036dbe5e7583a868ce0ecde3f7e5b00b7802a08570fe2a881 5.99MB / 6.33MB 19.5s
+#5 sha256:ffc4bfd5abded48036dbe5e7583a868ce0ecde3f7e5b00b7802a08570fe2a881 6.33MB / 6.33MB 19.7s
+#5 sha256:ffc4bfd5abded48036dbe5e7583a868ce0ecde3f7e5b00b7802a08570fe2a881 6.33MB / 6.33MB 19.8s done
+#5 sha256:35fe06b13471d62d5a221c95bea3d3ceac363371da796f2864a9ae3281ce4529 0B / 37.99MB 20.0s
+#5 sha256:c8cea7daa8e1710ec7fe89db7b49fd8ba242571ad4e796c949824bb89333d4f6 12.58MB / 122.81MB 20.9s
+#5 sha256:ba46ca6ff379ccbbae3267ed349896ed7a6851f6c7c2f8574b6eaa22c4f17521 4.19MB / 87.84MB 22.5s
+#5 sha256:35fe06b13471d62d5a221c95bea3d3ceac363371da796f2864a9ae3281ce4529 2.10MB / 37.99MB 24.3s
+#5 sha256:c8cea7daa8e1710ec7fe89db7b49fd8ba242571ad4e796c949824bb89333d4f6 15.73MB / 122.81MB 26.0s
+#5 sha256:ba46ca6ff379ccbbae3267ed349896ed7a6851f6c7c2f8574b6eaa22c4f17521 5.24MB / 87.84MB 27.5s
+#5 sha256:35fe06b13471d62d5a221c95bea3d3ceac363371da796f2864a9ae3281ce4529 4.19MB / 37.99MB 28.4s
+#5 sha256:35fe06b13471d62d5a221c95bea3d3ceac363371da796f2864a9ae3281ce4529 6.29MB / 37.99MB 30.8s
+#5 sha256:c8cea7daa8e1710ec7fe89db7b49fd8ba242571ad4e796c949824bb89333d4f6 17.83MB / 122.81MB 31.1s
+#5 sha256:ba46ca6ff379ccbbae3267ed349896ed7a6851f6c7c2f8574b6eaa22c4f17521 6.29MB / 87.84MB 32.6s
+#5 sha256:35fe06b13471d62d5a221c95bea3d3ceac363371da796f2864a9ae3281ce4529 8.39MB / 37.99MB 33.9s
+#5 sha256:c8cea7daa8e1710ec7fe89db7b49fd8ba242571ad4e796c949824bb89333d4f6 19.92MB / 122.81MB 36.2s
+#5 sha256:35fe06b13471d62d5a221c95bea3d3ceac363371da796f2864a9ae3281ce4529 10.49MB / 37.99MB 37.5s
+#5 sha256:ba46ca6ff379ccbbae3267ed349896ed7a6851f6c7c2f8574b6eaa22c4f17521 7.34MB / 87.84MB 37.6s
+#5 sha256:c8cea7daa8e1710ec7fe89db7b49fd8ba242571ad4e796c949824bb89333d4f6 20.97MB / 122.81MB 41.3s
+#5 sha256:35fe06b13471d62d5a221c95bea3d3ceac363371da796f2864a9ae3281ce4529 11.53MB / 37.99MB 42.5s
+#5 sha256:ba46ca6ff379ccbbae3267ed349896ed7a6851f6c7c2f8574b6eaa22c4f17521 8.39MB / 87.84MB 42.7s
+#5 sha256:c8cea7daa8e1710ec7fe89db7b49fd8ba242571ad4e796c949824bb89333d4f6 22.02MB / 122.81MB 46.4s
+#5 sha256:35fe06b13471d62d5a221c95bea3d3ceac363371da796f2864a9ae3281ce4529 12.58MB / 37.99MB 47.7s
+#5 sha256:ba46ca6ff379ccbbae3267ed349896ed7a6851f6c7c2f8574b6eaa22c4f17521 9.44MB / 87.84MB 47.8s
+#5 sha256:35fe06b13471d62d5a221c95bea3d3ceac363371da796f2864a9ae3281ce4529 14.68MB / 37.99MB 48.8s
+#5 sha256:35fe06b13471d62d5a221c95bea3d3ceac363371da796f2864a9ae3281ce4529 16.78MB / 37.99MB 50.2s
+#5 sha256:c8cea7daa8e1710ec7fe89db7b49fd8ba242571ad4e796c949824bb89333d4f6 26.21MB / 122.81MB 51.5s
+#5 sha256:35fe06b13471d62d5a221c95bea3d3ceac363371da796f2864a9ae3281ce4529 18.87MB / 37.99MB 51.5s
+#5 sha256:35fe06b13471d62d5a221c95bea3d3ceac363371da796f2864a9ae3281ce4529 20.97MB / 37.99MB 52.5s
+#5 sha256:ba46ca6ff379ccbbae3267ed349896ed7a6851f6c7c2f8574b6eaa22c4f17521 13.63MB / 87.84MB 52.9s
+#5 sha256:35fe06b13471d62d5a221c95bea3d3ceac363371da796f2864a9ae3281ce4529 23.07MB / 37.99MB 54.2s
+#5 sha256:35fe06b13471d62d5a221c95bea3d3ceac363371da796f2864a9ae3281ce4529 25.17MB / 37.99MB 55.8s
+#5 sha256:c8cea7daa8e1710ec7fe89db7b49fd8ba242571ad4e796c949824bb89333d4f6 30.41MB / 122.81MB 56.6s
+#5 sha256:35fe06b13471d62d5a221c95bea3d3ceac363371da796f2864a9ae3281ce4529 27.26MB / 37.99MB 57.1s
+#5 sha256:ba46ca6ff379ccbbae3267ed349896ed7a6851f6c7c2f8574b6eaa22c4f17521 17.83MB / 87.84MB 58.1s
+#5 sha256:35fe06b13471d62d5a221c95bea3d3ceac363371da796f2864a9ae3281ce4529 29.36MB / 37.99MB 58.4s
+#5 sha256:35fe06b13471d62d5a221c95bea3d3ceac363371da796f2864a9ae3281ce4529 31.46MB / 37.99MB 59.5s
+#5 sha256:35fe06b13471d62d5a221c95bea3d3ceac363371da796f2864a9ae3281ce4529 33.55MB / 37.99MB 61.0s
+#5 sha256:c8cea7daa8e1710ec7fe89db7b49fd8ba242571ad4e796c949824bb89333d4f6 36.70MB / 122.81MB 61.5s
+#5 sha256:35fe06b13471d62d5a221c95bea3d3ceac363371da796f2864a9ae3281ce4529 35.65MB / 37.99MB 62.3s
+#5 sha256:ba46ca6ff379ccbbae3267ed349896ed7a6851f6c7c2f8574b6eaa22c4f17521 22.02MB / 87.84MB 63.1s
+#5 sha256:35fe06b13471d62d5a221c95bea3d3ceac363371da796f2864a9ae3281ce4529 37.75MB / 37.99MB 63.7s
+#5 sha256:35fe06b13471d62d5a221c95bea3d3ceac363371da796f2864a9ae3281ce4529 37.99MB / 37.99MB 64.2s done
+#5 sha256:d63d2678339862734bb058fb3640683f019b963f78570363e9927f4375d7652a 0B / 11.54MB 64.5s
+#5 sha256:d63d2678339862734bb058fb3640683f019b963f78570363e9927f4375d7652a 1.05MB / 11.54MB 66.0s
+#5 sha256:c8cea7daa8e1710ec7fe89db7b49fd8ba242571ad4e796c949824bb89333d4f6 42.99MB / 122.81MB 66.4s
+#5 sha256:ba46ca6ff379ccbbae3267ed349896ed7a6851f6c7c2f8574b6eaa22c4f17521 27.26MB / 87.84MB 66.7s
+#5 sha256:d63d2678339862734bb058fb3640683f019b963f78570363e9927f4375d7652a 2.10MB / 11.54MB 66.8s
+#5 sha256:d63d2678339862734bb058fb3640683f019b963f78570363e9927f4375d7652a 3.15MB / 11.54MB 67.9s
+#5 sha256:d63d2678339862734bb058fb3640683f019b963f78570363e9927f4375d7652a 4.05MB / 11.54MB 69.4s
+#5 sha256:d63d2678339862734bb058fb3640683f019b963f78570363e9927f4375d7652a 5.24MB / 11.54MB 70.1s
+#5 sha256:c8cea7daa8e1710ec7fe89db7b49fd8ba242571ad4e796c949824bb89333d4f6 49.28MB / 122.81MB 70.5s
+#5 sha256:d63d2678339862734bb058fb3640683f019b963f78570363e9927f4375d7652a 6.29MB / 11.54MB 70.9s
+#5 sha256:d63d2678339862734bb058fb3640683f019b963f78570363e9927f4375d7652a 7.34MB / 11.54MB 71.5s
+#5 sha256:ba46ca6ff379ccbbae3267ed349896ed7a6851f6c7c2f8574b6eaa22c4f17521 32.51MB / 87.84MB 71.7s
+#5 sha256:d63d2678339862734bb058fb3640683f019b963f78570363e9927f4375d7652a 8.39MB / 11.54MB 72.1s
+#5 sha256:d63d2678339862734bb058fb3640683f019b963f78570363e9927f4375d7652a 9.44MB / 11.54MB 73.0s
+#5 sha256:d63d2678339862734bb058fb3640683f019b963f78570363e9927f4375d7652a 10.49MB / 11.54MB 73.5s
+#5 sha256:d63d2678339862734bb058fb3640683f019b963f78570363e9927f4375d7652a 11.54MB / 11.54MB 74.0s
+#5 sha256:d63d2678339862734bb058fb3640683f019b963f78570363e9927f4375d7652a 11.54MB / 11.54MB 74.3s done
+#5 sha256:c8cea7daa8e1710ec7fe89db7b49fd8ba242571ad4e796c949824bb89333d4f6 55.31MB / 122.81MB 75.5s
+#5 sha256:ba46ca6ff379ccbbae3267ed349896ed7a6851f6c7c2f8574b6eaa22c4f17521 37.51MB / 87.84MB 75.9s
+#5 sha256:ba46ca6ff379ccbbae3267ed349896ed7a6851f6c7c2f8574b6eaa22c4f17521 41.94MB / 87.84MB 77.5s
+#5 sha256:c8cea7daa8e1710ec7fe89db7b49fd8ba242571ad4e796c949824bb89333d4f6 61.51MB / 122.81MB 78.6s
+#5 sha256:ba46ca6ff379ccbbae3267ed349896ed7a6851f6c7c2f8574b6eaa22c4f17521 47.19MB / 87.84MB 80.4s
+#5 sha256:c8cea7daa8e1710ec7fe89db7b49fd8ba242571ad4e796c949824bb89333d4f6 68.16MB / 122.81MB 82.3s
+#5 sha256:ba46ca6ff379ccbbae3267ed349896ed7a6851f6c7c2f8574b6eaa22c4f17521 51.83MB / 87.84MB 83.8s
+#5 sha256:c8cea7daa8e1710ec7fe89db7b49fd8ba242571ad4e796c949824bb89333d4f6 74.45MB / 122.81MB 85.9s
+#5 sha256:ba46ca6ff379ccbbae3267ed349896ed7a6851f6c7c2f8574b6eaa22c4f17521 56.62MB / 87.84MB 86.2s
+#5 sha256:ba46ca6ff379ccbbae3267ed349896ed7a6851f6c7c2f8574b6eaa22c4f17521 61.52MB / 87.84MB 89.0s
+#5 sha256:c8cea7daa8e1710ec7fe89db7b49fd8ba242571ad4e796c949824bb89333d4f6 80.74MB / 122.81MB 89.0s
+#5 sha256:ba46ca6ff379ccbbae3267ed349896ed7a6851f6c7c2f8574b6eaa22c4f17521 66.06MB / 87.84MB 91.5s
+#5 sha256:c8cea7daa8e1710ec7fe89db7b49fd8ba242571ad4e796c949824bb89333d4f6 87.03MB / 122.81MB 92.1s
+#5 sha256:ba46ca6ff379ccbbae3267ed349896ed7a6851f6c7c2f8574b6eaa22c4f17521 71.30MB / 87.84MB 94.8s
+#5 sha256:c8cea7daa8e1710ec7fe89db7b49fd8ba242571ad4e796c949824bb89333d4f6 93.32MB / 122.81MB 96.3s
+#5 sha256:ba46ca6ff379ccbbae3267ed349896ed7a6851f6c7c2f8574b6eaa22c4f17521 76.55MB / 87.84MB 99.8s
+#5 sha256:c8cea7daa8e1710ec7fe89db7b49fd8ba242571ad4e796c949824bb89333d4f6 99.61MB / 122.81MB 101.2s
+#5 sha256:ba46ca6ff379ccbbae3267ed349896ed7a6851f6c7c2f8574b6eaa22c4f17521 81.37MB / 87.84MB 103.1s
+#5 sha256:c8cea7daa8e1710ec7fe89db7b49fd8ba242571ad4e796c949824bb89333d4f6 105.91MB / 122.81MB 103.7s
+#5 sha256:ba46ca6ff379ccbbae3267ed349896ed7a6851f6c7c2f8574b6eaa22c4f17521 85.98MB / 87.84MB 106.2s
+#5 sha256:ba46ca6ff379ccbbae3267ed349896ed7a6851f6c7c2f8574b6eaa22c4f17521 87.84MB / 87.84MB 106.5s done
+#5 extracting sha256:ba46ca6ff379ccbbae3267ed349896ed7a6851f6c7c2f8574b6eaa22c4f17521
+#5 sha256:c8cea7daa8e1710ec7fe89db7b49fd8ba242571ad4e796c949824bb89333d4f6 112.20MB / 122.81MB 107.1s
+#5 sha256:c8cea7daa8e1710ec7fe89db7b49fd8ba242571ad4e796c949824bb89333d4f6 118.49MB / 122.81MB 108.3s
+#5 sha256:c8cea7daa8e1710ec7fe89db7b49fd8ba242571ad4e796c949824bb89333d4f6 122.81MB / 122.81MB 110.8s done
+#5 extracting sha256:ba46ca6ff379ccbbae3267ed349896ed7a6851f6c7c2f8574b6eaa22c4f17521 5.2s
+#5 extracting sha256:ba46ca6ff379ccbbae3267ed349896ed7a6851f6c7c2f8574b6eaa22c4f17521 10.7s
+#5 extracting sha256:ba46ca6ff379ccbbae3267ed349896ed7a6851f6c7c2f8574b6eaa22c4f17521 15.8s
+#5 extracting sha256:ba46ca6ff379ccbbae3267ed349896ed7a6851f6c7c2f8574b6eaa22c4f17521 18.4s done
+#5 extracting sha256:bb33107b32680c3e09833a53cde889d41a8acf4b26cbba35e083bf1ed788c7e7 done
+#5 extracting sha256:e7c4b4b6697e86f3fc0cb8024dac0b5509482562402859e02526d2395a885226 done
+#5 extracting sha256:880e70e76d044991eb65860ac410774db4973ff4b7fd7005db801885839f9559 done
+#5 extracting sha256:b25d3e40fc5037b14cfc1690b0f15bb477beacd32ab41c85eed367158ab820ee
+#5 extracting sha256:b25d3e40fc5037b14cfc1690b0f15bb477beacd32ab41c85eed367158ab820ee done
+#5 extracting sha256:5ca346356cad1ff96298f74e8e27e42f7d98b0ba84f70dbd5bab9cf1e869a62e done
+#5 extracting sha256:e381d0be6a50dbf823db7d9e228ac1f64308f0e7d199a61f2449fe36a71b1fa1 done
+#5 extracting sha256:ffc4bfd5abded48036dbe5e7583a868ce0ecde3f7e5b00b7802a08570fe2a881
+#5 extracting sha256:ffc4bfd5abded48036dbe5e7583a868ce0ecde3f7e5b00b7802a08570fe2a881 0.5s done
+#5 extracting sha256:c8cea7daa8e1710ec7fe89db7b49fd8ba242571ad4e796c949824bb89333d4f6
+#5 extracting sha256:c8cea7daa8e1710ec7fe89db7b49fd8ba242571ad4e796c949824bb89333d4f6 5.1s
+#5 extracting sha256:c8cea7daa8e1710ec7fe89db7b49fd8ba242571ad4e796c949824bb89333d4f6 10.1s
+#5 extracting sha256:c8cea7daa8e1710ec7fe89db7b49fd8ba242571ad4e796c949824bb89333d4f6 12.2s done
+#5 extracting sha256:35fe06b13471d62d5a221c95bea3d3ceac363371da796f2864a9ae3281ce4529
+#5 extracting sha256:35fe06b13471d62d5a221c95bea3d3ceac363371da796f2864a9ae3281ce4529 7.1s
+#5 extracting sha256:35fe06b13471d62d5a221c95bea3d3ceac363371da796f2864a9ae3281ce4529 12.2s
+#5 extracting sha256:35fe06b13471d62d5a221c95bea3d3ceac363371da796f2864a9ae3281ce4529 17.2s
+#5 extracting sha256:35fe06b13471d62d5a221c95bea3d3ceac363371da796f2864a9ae3281ce4529 17.8s done
+#5 extracting sha256:d63d2678339862734bb058fb3640683f019b963f78570363e9927f4375d7652a
+#5 extracting sha256:d63d2678339862734bb058fb3640683f019b963f78570363e9927f4375d7652a 2.6s done
+#5 DONE 163.0s
+
+#6 [timescaledb 2/4] COPY ./1_create_tables.sql /docker-entrypoint-initdb.d/
+#6 DONE 7.1s
+
+#7 [timescaledb 3/4] COPY ./2_import_data.sh /docker-entrypoint-initdb.d/
+#7 DONE 0.5s
+
+#8 [timescaledb 4/4] RUN chmod a+r /docker-entrypoint-initdb.d/*
+#8 DONE 2.1s
+
+#9 [timescaledb] exporting to image
+#9 exporting layers
+#9 exporting layers 0.6s done
+#9 writing image sha256:8e2c1fe110a6c2e3c4b45442719a8e8b3183670a60a38b0ad1cbbaa46fb331f7
+#9 writing image sha256:8e2c1fe110a6c2e3c4b45442719a8e8b3183670a60a38b0ad1cbbaa46fb331f7 0.0s done
+#9 naming to docker.io/library/docker-timescaledb 0.1s done
+#9 DONE 0.8s

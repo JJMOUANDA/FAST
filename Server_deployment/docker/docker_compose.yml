@@ -1,0 +1,39 @@
+version: "2"
+services:
+  timescaledb:
+    container_name: timescaledb
+    build:
+      context: "./time_scale_db"
+      dockerfile: "docker_file"
+    env_file:
+      - "./time_scale_db/environment.env"
+    volumes:
+      - "/home/tp/Desktop/usr/share/fast/Deployment/Server/pg_data:/var/lib/postgresql/data"
+    ports:
+      - "5431:5432"
+    networks:
+      - local_network
+    restart: on-failure
+    # healthcheck:
+    #   test: /usr/bin/pg_isready -U postgres
+    #   interval: 5s
+    #   timeout: 10s
+    #   retries: 120
+    # mem_limit: 6G
+    # mem_reservation: 4G
+    # cpuset: 0-1
+  apache:
+    container_name: apache
+    build:
+      context: ./apache
+      dockerfile: Dockerfile
+    ports:
+      - "8081:8080"
+    volumes:
+      - ./apache/fr.ubo.fast.data.provider-0.0.1-SNAPSHOT.war:/usr/local/tomcat/webapps/fr.ubo.fast.data.provider-0.0.1-SNAPSHOT.war
+      - ./apache/tomcat-users.xml:/usr/local/tomcat/conf/tomcat-users.xml
+    networks:
+      - local_network
+    restart: on-failure
+networks:
+  local_network:

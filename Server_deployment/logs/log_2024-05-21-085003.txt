@@ -1,0 +1,21 @@
+lsb_release is /usr/bin/lsb_release
+/usr/bin/docker
+Warning: The "docker" command appears to already exist on this system.
+You may press Ctrl+C now to abort this script.
+W: Impossible de récupérer http://archive.ubuntu.com/ubuntu/dists/jammy/InRelease  Erreur temporaire de résolution de « archive.ubuntu.com »
+W: Impossible de récupérer http://archive.ubuntu.com/ubuntu/dists/jammy-updates/InRelease  Erreur temporaire de résolution de « archive.ubuntu.com »
+W: Impossible de récupérer http://security.ubuntu.com/ubuntu/dists/jammy-security/InRelease  Erreur temporaire de résolution de « security.ubuntu.com »
+W: Impossible de récupérer http://archive.ubuntu.com/ubuntu/dists/jammy-backports/InRelease  Erreur temporaire de résolution de « archive.ubuntu.com »
+W: Impossible de récupérer https://download.docker.com/linux/ubuntu/dists/jammy/InRelease  Erreur temporaire de résolution de « download.docker.com »
+W: Impossible de récupérer https://packagecloud.io/timescale/timescaledb/ubuntu/dists/jammy/InRelease  Erreur temporaire de résolution de « packagecloud.io »
+W: Le téléchargement de quelques fichiers d'index a échoué, ils ont été ignorés, ou les anciens ont été utilisés à la place.
+W: Impossible de récupérer http://archive.ubuntu.com/ubuntu/dists/jammy/InRelease  Erreur temporaire de résolution de « archive.ubuntu.com »
+W: Impossible de récupérer http://archive.ubuntu.com/ubuntu/dists/jammy-updates/InRelease  Erreur temporaire de résolution de « archive.ubuntu.com »
+W: Impossible de récupérer http://security.ubuntu.com/ubuntu/dists/jammy-security/InRelease  Erreur temporaire de résolution de « security.ubuntu.com »
+W: Impossible de récupérer http://archive.ubuntu.com/ubuntu/dists/jammy-backports/InRelease  Erreur temporaire de résolution de « archive.ubuntu.com »
+W: Impossible de récupérer https://download.docker.com/linux/ubuntu/dists/jammy/InRelease  Erreur temporaire de résolution de « download.docker.com »
+W: Impossible de récupérer https://packagecloud.io/timescale/timescaledb/ubuntu/dists/jammy/InRelease  Erreur temporaire de résolution de « packagecloud.io »
+W: Le téléchargement de quelques fichiers d'index a échoué, ils ont été ignorés, ou les anciens ont été utilisés à la place.
+cp: cannot create regular file '/home/tp/Desktop/usr/share/fast/Deployment/Server/docker /home/tp/Desktop/usr/share/fast/Deployment/Server/docker /home/tp/Desktop/usr/share/fast/Deployment/Server/docker /home/tp/Desktop/usr/share/fast/Deployment/Server/docker /home/tp/Desktop/usr/share/fast/Deployment/Server/docker /home/tp/Desktop/usr/share/fast/Deployment/Server/docker /home/tp/Desktop/usr/share/fast/Deployment/Server/docker /home/tp/Desktop/usr/share/fast/Deployment/Server/docker /home/tp/Desktop/usr/share/fast/Deployment/Server/docker/environment.env': No such file or directory
+cp: cannot create regular file '/home/tp/Desktop/usr/share/fast/Deployment/Server/docker /home/tp/Desktop/usr/share/fast/Deployment/Server/docker /home/tp/Desktop/usr/share/fast/Deployment/Server/docker /home/tp/Desktop/usr/share/fast/Deployment/Server/docker /home/tp/Desktop/usr/share/fast/Deployment/Server/docker /home/tp/Desktop/usr/share/fast/Deployment/Server/docker /home/tp/Desktop/usr/share/fast/Deployment/Server/docker /home/tp/Desktop/usr/share/fast/Deployment/Server/docker /home/tp/Desktop/usr/share/fast/Deployment/Server/docker/time_scale_db/environment.env': No such file or directory
+cp: cannot create regular file '/home/tp/Desktop/usr/share/fast/Deployment/Server/docker /home/tp/Desktop/usr/share/fast/Deployment/Server/docker /home/tp/Desktop/usr/share/fast/Deployment/Server/docker /home/tp/Desktop/usr/share/fast/Deployment/Server/docker /home/tp/Desktop/usr/share/fast/Deployment/Server/docker /home/tp/Desktop/usr/share/fast/Deployment/Server/docker /home/tp/Desktop/usr/share/fast/Deployment/Server/docker /home/tp/Desktop/usr/share/fast/Deployment/Server/docker /home/tp/Desktop/usr/share/fast/Deployment/Server/docker/apache/fr.ubo.fast.data.provider-0.0.1-SNAPSHOT/WEB-INF/conf/database.properties': No such file or directory

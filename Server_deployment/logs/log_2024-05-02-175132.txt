@@ -1,0 +1,1 @@
+./install.sh: line 88: jar: command not found

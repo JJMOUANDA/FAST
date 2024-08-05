@@ -1,0 +1,37 @@
+lsb_release is /usr/bin/lsb_release
+/usr/bin/docker
+Warning: The "docker" command appears to already exist on this system.
+You may press Ctrl+C now to abort this script.
+E: Could not get lock /var/lib/apt/lists/lock. It is held by process 3655 (apt-get)
+E: Impossible de verrouiller le répertoire /var/lib/apt/lists/
+W: La cible Packages (stable/binary-amd64/Packages) est spécifiée plusieurs fois dans /etc/apt/sources.list.d/archive_uri-https_download_docker_com_linux_ubuntu-jammy.list:1 et /etc/apt/sources.list.d/docker.list:1
+W: La cible Packages (stable/binary-all/Packages) est spécifiée plusieurs fois dans /etc/apt/sources.list.d/archive_uri-https_download_docker_com_linux_ubuntu-jammy.list:1 et /etc/apt/sources.list.d/docker.list:1
+W: La cible Translations (stable/i18n/Translation-fr_FR) est spécifiée plusieurs fois dans /etc/apt/sources.list.d/archive_uri-https_download_docker_com_linux_ubuntu-jammy.list:1 et /etc/apt/sources.list.d/docker.list:1
+W: La cible Translations (stable/i18n/Translation-fr) est spécifiée plusieurs fois dans /etc/apt/sources.list.d/archive_uri-https_download_docker_com_linux_ubuntu-jammy.list:1 et /etc/apt/sources.list.d/docker.list:1
+W: La cible Translations (stable/i18n/Translation-en) est spécifiée plusieurs fois dans /etc/apt/sources.list.d/archive_uri-https_download_docker_com_linux_ubuntu-jammy.list:1 et /etc/apt/sources.list.d/docker.list:1
+W: La cible DEP-11 (stable/dep11/Components-amd64.yml) est spécifiée plusieurs fois dans /etc/apt/sources.list.d/archive_uri-https_download_docker_com_linux_ubuntu-jammy.list:1 et /etc/apt/sources.list.d/docker.list:1
+W: La cible DEP-11 (stable/dep11/Components-all.yml) est spécifiée plusieurs fois dans /etc/apt/sources.list.d/archive_uri-https_download_docker_com_linux_ubuntu-jammy.list:1 et /etc/apt/sources.list.d/docker.list:1
+W: La cible DEP-11-icons-small (stable/dep11/icons-48x48.tar) est spécifiée plusieurs fois dans /etc/apt/sources.list.d/archive_uri-https_download_docker_com_linux_ubuntu-jammy.list:1 et /etc/apt/sources.list.d/docker.list:1
+W: La cible DEP-11-icons (stable/dep11/icons-64x64.tar) est spécifiée plusieurs fois dans /etc/apt/sources.list.d/archive_uri-https_download_docker_com_linux_ubuntu-jammy.list:1 et /etc/apt/sources.list.d/docker.list:1
+W: La cible DEP-11-icons-hidpi (stable/dep11/icons-64x64@2.tar) est spécifiée plusieurs fois dans /etc/apt/sources.list.d/archive_uri-https_download_docker_com_linux_ubuntu-jammy.list:1 et /etc/apt/sources.list.d/docker.list:1
+W: La cible DEP-11-icons-large (stable/dep11/icons-128x128.tar) est spécifiée plusieurs fois dans /etc/apt/sources.list.d/archive_uri-https_download_docker_com_linux_ubuntu-jammy.list:1 et /etc/apt/sources.list.d/docker.list:1
+W: La cible CNF (stable/cnf/Commands-amd64) est spécifiée plusieurs fois dans /etc/apt/sources.list.d/archive_uri-https_download_docker_com_linux_ubuntu-jammy.list:1 et /etc/apt/sources.list.d/docker.list:1
+W: La cible CNF (stable/cnf/Commands-all) est spécifiée plusieurs fois dans /etc/apt/sources.list.d/archive_uri-https_download_docker_com_linux_ubuntu-jammy.list:1 et /etc/apt/sources.list.d/docker.list:1
+E: Could not get lock /var/lib/apt/lists/lock. It is held by process 3655 (apt-get)
+E: Impossible de verrouiller le répertoire /var/lib/apt/lists/
+W: La cible Packages (stable/binary-amd64/Packages) est spécifiée plusieurs fois dans /etc/apt/sources.list.d/archive_uri-https_download_docker_com_linux_ubuntu-jammy.list:1 et /etc/apt/sources.list.d/docker.list:1
+W: La cible Packages (stable/binary-all/Packages) est spécifiée plusieurs fois dans /etc/apt/sources.list.d/archive_uri-https_download_docker_com_linux_ubuntu-jammy.list:1 et /etc/apt/sources.list.d/docker.list:1
+W: La cible Translations (stable/i18n/Translation-fr_FR) est spécifiée plusieurs fois dans /etc/apt/sources.list.d/archive_uri-https_download_docker_com_linux_ubuntu-jammy.list:1 et /etc/apt/sources.list.d/docker.list:1
+W: La cible Translations (stable/i18n/Translation-fr) est spécifiée plusieurs fois dans /etc/apt/sources.list.d/archive_uri-https_download_docker_com_linux_ubuntu-jammy.list:1 et /etc/apt/sources.list.d/docker.list:1
+W: La cible Translations (stable/i18n/Translation-en) est spécifiée plusieurs fois dans /etc/apt/sources.list.d/archive_uri-https_download_docker_com_linux_ubuntu-jammy.list:1 et /etc/apt/sources.list.d/docker.list:1
+W: La cible DEP-11 (stable/dep11/Components-amd64.yml) est spécifiée plusieurs fois dans /etc/apt/sources.list.d/archive_uri-https_download_docker_com_linux_ubuntu-jammy.list:1 et /etc/apt/sources.list.d/docker.list:1
+W: La cible DEP-11 (stable/dep11/Components-all.yml) est spécifiée plusieurs fois dans /etc/apt/sources.list.d/archive_uri-https_download_docker_com_linux_ubuntu-jammy.list:1 et /etc/apt/sources.list.d/docker.list:1
+W: La cible DEP-11-icons-small (stable/dep11/icons-48x48.tar) est spécifiée plusieurs fois dans /etc/apt/sources.list.d/archive_uri-https_download_docker_com_linux_ubuntu-jammy.list:1 et /etc/apt/sources.list.d/docker.list:1
+W: La cible DEP-11-icons (stable/dep11/icons-64x64.tar) est spécifiée plusieurs fois dans /etc/apt/sources.list.d/archive_uri-https_download_docker_com_linux_ubuntu-jammy.list:1 et /etc/apt/sources.list.d/docker.list:1
+W: La cible DEP-11-icons-hidpi (stable/dep11/icons-64x64@2.tar) est spécifiée plusieurs fois dans /etc/apt/sources.list.d/archive_uri-https_download_docker_com_linux_ubuntu-jammy.list:1 et /etc/apt/sources.list.d/docker.list:1
+W: La cible DEP-11-icons-large (stable/dep11/icons-128x128.tar) est spécifiée plusieurs fois dans /etc/apt/sources.list.d/archive_uri-https_download_docker_com_linux_ubuntu-jammy.list:1 et /etc/apt/sources.list.d/docker.list:1
+W: La cible CNF (stable/cnf/Commands-amd64) est spécifiée plusieurs fois dans /etc/apt/sources.list.d/archive_uri-https_download_docker_com_linux_ubuntu-jammy.list:1 et /etc/apt/sources.list.d/docker.list:1
+W: La cible CNF (stable/cnf/Commands-all) est spécifiée plusieurs fois dans /etc/apt/sources.list.d/archive_uri-https_download_docker_com_linux_ubuntu-jammy.list:1 et /etc/apt/sources.list.d/docker.list:1
+cp: cannot create regular file '/home/tp/Desktop/usr/share/fast/Deployment/Server/docker /home/tp/Desktop/usr/share/fast/Deployment/Server/docker /home/tp/Desktop/usr/share/fast/Deployment/Server/docker /home/tp/Desktop/usr/share/fast/Deployment/Server/docker /home/tp/Desktop/usr/share/fast/Deployment/Server/docker/environment.env': No such file or directory
+cp: cannot create regular file '/home/tp/Desktop/usr/share/fast/Deployment/Server/docker /home/tp/Desktop/usr/share/fast/Deployment/Server/docker /home/tp/Desktop/usr/share/fast/Deployment/Server/docker /home/tp/Desktop/usr/share/fast/Deployment/Server/docker /home/tp/Desktop/usr/share/fast/Deployment/Server/docker/time_scale_db/environment.env': No such file or directory
+cp: cannot create regular file '/home/tp/Desktop/usr/share/fast/Deployment/Server/docker /home/tp/Desktop/usr/share/fast/Deployment/Server/docker /home/tp/Desktop/usr/share/fast/Deployment/Server/docker /home/tp/Desktop/usr/share/fast/Deployment/Server/docker /home/tp/Desktop/usr/share/fast/Deployment/Server/docker/apache/fr.ubo.fast.data.provider-0.0.1-SNAPSHOT/WEB-INF/conf/database.properties': No such file or directory
